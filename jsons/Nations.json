@@ -22,6 +22,6 @@
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
 			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"]
-                "uniques": ["Starts with [Telecommunications]","Units fight as though they were at full strength even when damaged","Starts with [Industrialization]","Starts with [Plastics]","Starts with [Rader]","Starts with [Optics]","Starts with [Astronomy]","Starts with [Education]","Starts with [Dynamite]","Starts with [Writing]","Starts with [Fertilizer]","Starts with [Computers]"],
+                "uniques": ["Starts with [Telecommunications]","Damage is ignored when determining unit Strength <for All units>","Starts with [Industrialization]","Starts with [Plastics]","Starts with [Radar]","Starts with [Optics]","Starts with [Astronomy]","Starts with [Education]","Starts with [Dynamite]","Starts with [Writing]","Starts with [Fertilizer]","Starts with [Computers]"],
         }
 ]
