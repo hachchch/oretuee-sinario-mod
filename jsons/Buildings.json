@@ -1,0 +1,11 @@
+[
+        {
+                "name": "Oretuee mode",
+                "cost": 1,
+                "uniqueTo": "Japan",
+                "production": 20,
+                "gold": 20,
+                "culture" 60,
+                "science": 60,
+                "food": 20,
+                "uniques": ["discover [Agriculture] tech",""],
